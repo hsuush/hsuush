@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=0A74DA&height=100&width=100%&section=header&text=WELCOME%20to%20my%20GitHub&fontSize=20&fondColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=soft&color=87CEFA&height=100&width=100%&section=header&text=WELCOME:D&fontSize=20&fondColor=ffffff)
 
 </br>
 
@@ -9,18 +9,18 @@
 <table>
   <tr>
     <td>
-      description
+      My
     </td>
     <td>
-      I'm using these languages...
+      languages
     </td>
     <td>
-      My GitHub stats is...
+      My GitHub stats is
     </td>
   </tr>
   <tr>
     <td>
-      image
+      description
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -39,7 +39,7 @@
 
 </br>
 
-## ✏️I've been studying...
+## ✏️ my skills
 </br>
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
