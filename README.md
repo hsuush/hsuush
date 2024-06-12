@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=87CEFA&height=100&width=100%&section=header&text=WELCOME:D&fontSize=20&fondColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=soft&color=87CEFA&height=100&width=100%&section=header&text=WELCOME%20:D&fontSize=20&fondColor=ffffff)
 
 </br>
 
@@ -12,10 +12,10 @@
       My
     </td>
     <td>
-      languages
+      Languages for developments
     </td>
     <td>
-      My GitHub stats is
+      GitHub
     </td>
   </tr>
   <tr>
@@ -50,6 +50,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-</br>
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=0A74DA&height=90&width=100%&section=footer)
