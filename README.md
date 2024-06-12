@@ -1,10 +1,18 @@
-
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 ## 안녕하세요 🐹
 
 </br>
 
 <table>
+  <tr>
+    <td>
+      ## I'm using these languages...
+    </td>
+    <td>
+      ## My GitHub stats is...
+    </td>
+  </tr>
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
