@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=0A74DA&height=150&width=100%&section=header&text=WELCOME%20to%20my%20GitHub&fontSize=90&fondColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0A74DA&height=100&width=100%&section=header&text=WELCOME%20to%20my%20GitHub&fontSize=20&fondColor=ffffff)
 
 </br>
 
@@ -9,13 +9,19 @@
 <table>
   <tr>
     <td>
-      ## I'm using these languages...
+      description
     </td>
     <td>
-      ## My GitHub stats is...
+      I'm using these languages...
+    </td>
+    <td>
+      My GitHub stats is...
     </td>
   </tr>
   <tr>
+    <td>
+      image
+    </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsuush&layout=compact" />
@@ -37,9 +43,6 @@
 </br>
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
-</br>
-
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
