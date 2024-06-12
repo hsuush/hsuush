@@ -40,7 +40,6 @@
 
 </br>
 
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=footer&text=텍스트&fontSize=텍스트크기" />
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
