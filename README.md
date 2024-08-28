@@ -1,10 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=87CEFA&height=100&width=100%&section=header&text=WELCOME%20:D&fontSize=20&fondColor=ffffff)
 
-</br>
-
-# 안녕하세요!
-
-</br>
 
 <table>
   <tr>
