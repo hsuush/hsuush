@@ -1,36 +1,4 @@
 
-
-<table>
-  <tr>
-    <td>
-      My
-    </td>
-    <td>
-      Languages for developments
-    </td>
-    <td>
-      GitHub
-    </td>
-  </tr>
-  <tr>
-    <td>
-      description
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsuush&layout=compact" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=hsuush&show_icons=true&theme=github_dark" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</br>
-
 </br>
 
 ## ✏️ my skills
